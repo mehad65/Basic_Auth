@@ -1,0 +1,29 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Basics
+build_property.RootNamespace = Basics
+build_property.ProjectDir = C:\Users\mehad\Desktop\Basic_Auth\Authentication\Basics\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\mehad\Desktop\Basic_Auth\Authentication\Basics
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/mehad/Desktop/Basic_Auth/Authentication/Basics/Views/Home/Authenticate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBdXRoZW50aWNhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehad/Desktop/Basic_Auth/Authentication/Basics/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mehad/Desktop/Basic_Auth/Authentication/Basics/Views/Home/Secret.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZWNyZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
